@@ -1,0 +1,13 @@
+D:\SoftUni\OOP-CSharp\SolidLab\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.exe
+D:\SoftUni\OOP-CSharp\SolidLab\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.deps.json
+D:\SoftUni\OOP-CSharp\SolidLab\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.runtimeconfig.json
+D:\SoftUni\OOP-CSharp\SolidLab\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.runtimeconfig.dev.json
+D:\SoftUni\OOP-CSharp\SolidLab\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.dll
+D:\SoftUni\OOP-CSharp\SolidLab\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.pdb
+D:\SoftUni\OOP-CSharp\SolidLab\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.csproj.AssemblyReference.cache
+D:\SoftUni\OOP-CSharp\SolidLab\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.AssemblyInfoInputs.cache
+D:\SoftUni\OOP-CSharp\SolidLab\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.AssemblyInfo.cs
+D:\SoftUni\OOP-CSharp\SolidLab\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP-CSharp\SolidLab\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.dll
+D:\SoftUni\OOP-CSharp\SolidLab\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.pdb
+D:\SoftUni\OOP-CSharp\SolidLab\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.genruntimeconfig.cache
