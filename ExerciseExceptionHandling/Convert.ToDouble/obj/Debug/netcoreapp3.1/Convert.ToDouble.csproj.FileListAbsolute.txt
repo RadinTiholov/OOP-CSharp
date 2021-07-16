@@ -1,0 +1,12 @@
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\Convert.ToDouble\bin\Debug\netcoreapp3.1\Convert.ToDouble.exe
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\Convert.ToDouble\bin\Debug\netcoreapp3.1\Convert.ToDouble.deps.json
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\Convert.ToDouble\bin\Debug\netcoreapp3.1\Convert.ToDouble.runtimeconfig.json
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\Convert.ToDouble\bin\Debug\netcoreapp3.1\Convert.ToDouble.runtimeconfig.dev.json
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\Convert.ToDouble\bin\Debug\netcoreapp3.1\Convert.ToDouble.dll
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\Convert.ToDouble\bin\Debug\netcoreapp3.1\Convert.ToDouble.pdb
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\Convert.ToDouble\obj\Debug\netcoreapp3.1\Convert.ToDouble.AssemblyInfoInputs.cache
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\Convert.ToDouble\obj\Debug\netcoreapp3.1\Convert.ToDouble.AssemblyInfo.cs
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\Convert.ToDouble\obj\Debug\netcoreapp3.1\Convert.ToDouble.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\Convert.ToDouble\obj\Debug\netcoreapp3.1\Convert.ToDouble.dll
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\Convert.ToDouble\obj\Debug\netcoreapp3.1\Convert.ToDouble.pdb
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\Convert.ToDouble\obj\Debug\netcoreapp3.1\Convert.ToDouble.genruntimeconfig.cache

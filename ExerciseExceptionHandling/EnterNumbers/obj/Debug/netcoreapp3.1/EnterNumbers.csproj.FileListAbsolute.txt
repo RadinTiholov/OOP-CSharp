@@ -1,0 +1,13 @@
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\EnterNumbers\bin\Debug\netcoreapp3.1\EnterNumbers.exe
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\EnterNumbers\bin\Debug\netcoreapp3.1\EnterNumbers.deps.json
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\EnterNumbers\bin\Debug\netcoreapp3.1\EnterNumbers.runtimeconfig.json
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\EnterNumbers\bin\Debug\netcoreapp3.1\EnterNumbers.runtimeconfig.dev.json
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\EnterNumbers\bin\Debug\netcoreapp3.1\EnterNumbers.dll
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\EnterNumbers\bin\Debug\netcoreapp3.1\EnterNumbers.pdb
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.csproj.AssemblyReference.cache
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.AssemblyInfo.cs
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.dll
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.pdb
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.genruntimeconfig.cache

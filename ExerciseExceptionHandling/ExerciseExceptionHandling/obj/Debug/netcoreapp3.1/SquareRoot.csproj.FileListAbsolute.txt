@@ -1,0 +1,13 @@
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\ExerciseExceptionHandling\bin\Debug\netcoreapp3.1\SquareRoot.exe
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\ExerciseExceptionHandling\bin\Debug\netcoreapp3.1\SquareRoot.deps.json
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\ExerciseExceptionHandling\bin\Debug\netcoreapp3.1\SquareRoot.runtimeconfig.json
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\ExerciseExceptionHandling\bin\Debug\netcoreapp3.1\SquareRoot.runtimeconfig.dev.json
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\ExerciseExceptionHandling\bin\Debug\netcoreapp3.1\SquareRoot.dll
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\ExerciseExceptionHandling\bin\Debug\netcoreapp3.1\SquareRoot.pdb
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\ExerciseExceptionHandling\obj\Debug\netcoreapp3.1\SquareRoot.csproj.AssemblyReference.cache
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\ExerciseExceptionHandling\obj\Debug\netcoreapp3.1\SquareRoot.AssemblyInfoInputs.cache
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\ExerciseExceptionHandling\obj\Debug\netcoreapp3.1\SquareRoot.AssemblyInfo.cs
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\ExerciseExceptionHandling\obj\Debug\netcoreapp3.1\SquareRoot.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\ExerciseExceptionHandling\obj\Debug\netcoreapp3.1\SquareRoot.dll
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\ExerciseExceptionHandling\obj\Debug\netcoreapp3.1\SquareRoot.pdb
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\ExerciseExceptionHandling\obj\Debug\netcoreapp3.1\SquareRoot.genruntimeconfig.cache

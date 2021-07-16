@@ -1,0 +1,13 @@
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\ValidPerson\bin\Debug\netcoreapp3.1\ValidPerson.exe
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\ValidPerson\bin\Debug\netcoreapp3.1\ValidPerson.deps.json
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\ValidPerson\bin\Debug\netcoreapp3.1\ValidPerson.runtimeconfig.json
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\ValidPerson\bin\Debug\netcoreapp3.1\ValidPerson.runtimeconfig.dev.json
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\ValidPerson\bin\Debug\netcoreapp3.1\ValidPerson.dll
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\ValidPerson\bin\Debug\netcoreapp3.1\ValidPerson.pdb
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\ValidPerson\obj\Debug\netcoreapp3.1\ValidPerson.AssemblyInfoInputs.cache
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\ValidPerson\obj\Debug\netcoreapp3.1\ValidPerson.AssemblyInfo.cs
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\ValidPerson\obj\Debug\netcoreapp3.1\ValidPerson.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\ValidPerson\obj\Debug\netcoreapp3.1\ValidPerson.dll
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\ValidPerson\obj\Debug\netcoreapp3.1\ValidPerson.pdb
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\ValidPerson\obj\Debug\netcoreapp3.1\ValidPerson.genruntimeconfig.cache
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\ValidPerson\obj\Debug\netcoreapp3.1\ValidPerson.csproj.AssemblyReference.cache

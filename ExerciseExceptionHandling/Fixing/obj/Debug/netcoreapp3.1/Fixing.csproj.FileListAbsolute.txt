@@ -1,0 +1,12 @@
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\Fixing\bin\Debug\netcoreapp3.1\Fixing.exe
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\Fixing\bin\Debug\netcoreapp3.1\Fixing.deps.json
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\Fixing\bin\Debug\netcoreapp3.1\Fixing.runtimeconfig.json
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\Fixing\bin\Debug\netcoreapp3.1\Fixing.runtimeconfig.dev.json
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\Fixing\bin\Debug\netcoreapp3.1\Fixing.dll
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\Fixing\bin\Debug\netcoreapp3.1\Fixing.pdb
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\Fixing\obj\Debug\netcoreapp3.1\Fixing.AssemblyInfoInputs.cache
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\Fixing\obj\Debug\netcoreapp3.1\Fixing.AssemblyInfo.cs
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\Fixing\obj\Debug\netcoreapp3.1\Fixing.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\Fixing\obj\Debug\netcoreapp3.1\Fixing.dll
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\Fixing\obj\Debug\netcoreapp3.1\Fixing.pdb
+D:\SoftUni\OOP-CSharp\ExerciseExceptionHandling\Fixing\obj\Debug\netcoreapp3.1\Fixing.genruntimeconfig.cache
