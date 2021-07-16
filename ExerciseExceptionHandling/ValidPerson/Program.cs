@@ -8,8 +8,8 @@ namespace ValidPerson
     {
         static void Main(string[] args)
         {
-            //IEngine engine = new BasicEngine();
-            IEngine engine = new StudentProblemEngine();
+            IEngine engine = new BasicEngine();
+            //IEngine engine = new StudentProblemEngine();
             engine.Run();
         }
 
