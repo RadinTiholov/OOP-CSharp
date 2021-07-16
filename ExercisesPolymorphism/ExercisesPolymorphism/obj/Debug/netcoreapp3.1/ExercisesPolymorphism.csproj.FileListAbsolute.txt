@@ -1,0 +1,13 @@
+D:\SoftUni\OOP-CSharp\ExercisesPolymorphism\ExercisesPolymorphism\bin\Debug\netcoreapp3.1\ExercisesPolymorphism.exe
+D:\SoftUni\OOP-CSharp\ExercisesPolymorphism\ExercisesPolymorphism\bin\Debug\netcoreapp3.1\ExercisesPolymorphism.deps.json
+D:\SoftUni\OOP-CSharp\ExercisesPolymorphism\ExercisesPolymorphism\bin\Debug\netcoreapp3.1\ExercisesPolymorphism.runtimeconfig.json
+D:\SoftUni\OOP-CSharp\ExercisesPolymorphism\ExercisesPolymorphism\bin\Debug\netcoreapp3.1\ExercisesPolymorphism.runtimeconfig.dev.json
+D:\SoftUni\OOP-CSharp\ExercisesPolymorphism\ExercisesPolymorphism\bin\Debug\netcoreapp3.1\ExercisesPolymorphism.dll
+D:\SoftUni\OOP-CSharp\ExercisesPolymorphism\ExercisesPolymorphism\bin\Debug\netcoreapp3.1\ExercisesPolymorphism.pdb
+D:\SoftUni\OOP-CSharp\ExercisesPolymorphism\ExercisesPolymorphism\obj\Debug\netcoreapp3.1\ExercisesPolymorphism.csproj.AssemblyReference.cache
+D:\SoftUni\OOP-CSharp\ExercisesPolymorphism\ExercisesPolymorphism\obj\Debug\netcoreapp3.1\ExercisesPolymorphism.AssemblyInfoInputs.cache
+D:\SoftUni\OOP-CSharp\ExercisesPolymorphism\ExercisesPolymorphism\obj\Debug\netcoreapp3.1\ExercisesPolymorphism.AssemblyInfo.cs
+D:\SoftUni\OOP-CSharp\ExercisesPolymorphism\ExercisesPolymorphism\obj\Debug\netcoreapp3.1\ExercisesPolymorphism.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP-CSharp\ExercisesPolymorphism\ExercisesPolymorphism\obj\Debug\netcoreapp3.1\ExercisesPolymorphism.dll
+D:\SoftUni\OOP-CSharp\ExercisesPolymorphism\ExercisesPolymorphism\obj\Debug\netcoreapp3.1\ExercisesPolymorphism.pdb
+D:\SoftUni\OOP-CSharp\ExercisesPolymorphism\ExercisesPolymorphism\obj\Debug\netcoreapp3.1\ExercisesPolymorphism.genruntimeconfig.cache
