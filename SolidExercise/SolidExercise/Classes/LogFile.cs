@@ -16,7 +16,10 @@ namespace SolidExercise.Classes
                 int sum = 0;
                 foreach (char item in Text.ToString().Trim())
                 {
-                    sum += (int)item;
+                    if (char.IsLetter(item))
+                    {
+                        sum += (int)item;
+                    }
                 }
                 return sum; 
             }
