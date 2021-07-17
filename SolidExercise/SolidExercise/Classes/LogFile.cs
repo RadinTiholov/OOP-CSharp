@@ -24,9 +24,7 @@ namespace SolidExercise.Classes
                 return sum; 
             }
         }
-        public StringBuilder Text {
-            get;
-        }
+        public StringBuilder Text { get; }
         public void Write(ILayout layout, string date, string type, string error) 
         {
             string someText = string.Format(layout.Format, date, type, error);
