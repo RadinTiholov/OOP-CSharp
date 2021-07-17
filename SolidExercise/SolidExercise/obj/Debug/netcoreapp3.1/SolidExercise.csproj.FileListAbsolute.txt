@@ -1,0 +1,13 @@
+D:\SoftUni\OOP-CSharp\SolidExercise\SolidExercise\obj\Debug\netcoreapp3.1\SolidExercise.csproj.AssemblyReference.cache
+D:\SoftUni\OOP-CSharp\SolidExercise\SolidExercise\obj\Debug\netcoreapp3.1\SolidExercise.AssemblyInfoInputs.cache
+D:\SoftUni\OOP-CSharp\SolidExercise\SolidExercise\obj\Debug\netcoreapp3.1\SolidExercise.AssemblyInfo.cs
+D:\SoftUni\OOP-CSharp\SolidExercise\SolidExercise\obj\Debug\netcoreapp3.1\SolidExercise.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP-CSharp\SolidExercise\SolidExercise\bin\Debug\netcoreapp3.1\SolidExercise.exe
+D:\SoftUni\OOP-CSharp\SolidExercise\SolidExercise\bin\Debug\netcoreapp3.1\SolidExercise.deps.json
+D:\SoftUni\OOP-CSharp\SolidExercise\SolidExercise\bin\Debug\netcoreapp3.1\SolidExercise.runtimeconfig.json
+D:\SoftUni\OOP-CSharp\SolidExercise\SolidExercise\bin\Debug\netcoreapp3.1\SolidExercise.runtimeconfig.dev.json
+D:\SoftUni\OOP-CSharp\SolidExercise\SolidExercise\bin\Debug\netcoreapp3.1\SolidExercise.dll
+D:\SoftUni\OOP-CSharp\SolidExercise\SolidExercise\bin\Debug\netcoreapp3.1\SolidExercise.pdb
+D:\SoftUni\OOP-CSharp\SolidExercise\SolidExercise\obj\Debug\netcoreapp3.1\SolidExercise.dll
+D:\SoftUni\OOP-CSharp\SolidExercise\SolidExercise\obj\Debug\netcoreapp3.1\SolidExercise.pdb
+D:\SoftUni\OOP-CSharp\SolidExercise\SolidExercise\obj\Debug\netcoreapp3.1\SolidExercise.genruntimeconfig.cache
