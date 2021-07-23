@@ -1,0 +1,13 @@
+D:\SoftUni\OOP-CSharp\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.exe
+D:\SoftUni\OOP-CSharp\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.deps.json
+D:\SoftUni\OOP-CSharp\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.json
+D:\SoftUni\OOP-CSharp\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.dev.json
+D:\SoftUni\OOP-CSharp\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.dll
+D:\SoftUni\OOP-CSharp\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.pdb
+D:\SoftUni\OOP-CSharp\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.csproj.AssemblyReference.cache
+D:\SoftUni\OOP-CSharp\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfoInputs.cache
+D:\SoftUni\OOP-CSharp\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfo.cs
+D:\SoftUni\OOP-CSharp\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP-CSharp\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.dll
+D:\SoftUni\OOP-CSharp\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.pdb
+D:\SoftUni\OOP-CSharp\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.genruntimeconfig.cache
