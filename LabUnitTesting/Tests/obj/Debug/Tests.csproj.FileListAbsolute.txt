@@ -1,0 +1,11 @@
+D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Tests\bin\Debug\Tests.dll
+D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Tests\bin\Debug\Tests.pdb
+D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Tests\bin\Debug\nunit.framework.dll
+D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Tests\bin\Debug\Skeleton.exe
+D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Tests\bin\Debug\Skeleton.pdb
+D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Tests\bin\Debug\Skeleton.exe.config
+D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Tests\bin\Debug\nunit.framework.xml
+D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Tests\obj\Debug\Tests.dll
+D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Tests\obj\Debug\Tests.pdb
+D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Tests\bin\Debug\Castle.Core.dll
