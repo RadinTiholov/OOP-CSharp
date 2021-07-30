@@ -1,0 +1,13 @@
+D:\SoftUni\OOP-CSharp\LabDesignPatterns\LabDesignPatterns\bin\Debug\netcoreapp3.1\LabDesignPatterns.exe
+D:\SoftUni\OOP-CSharp\LabDesignPatterns\LabDesignPatterns\bin\Debug\netcoreapp3.1\LabDesignPatterns.deps.json
+D:\SoftUni\OOP-CSharp\LabDesignPatterns\LabDesignPatterns\bin\Debug\netcoreapp3.1\LabDesignPatterns.runtimeconfig.json
+D:\SoftUni\OOP-CSharp\LabDesignPatterns\LabDesignPatterns\bin\Debug\netcoreapp3.1\LabDesignPatterns.runtimeconfig.dev.json
+D:\SoftUni\OOP-CSharp\LabDesignPatterns\LabDesignPatterns\bin\Debug\netcoreapp3.1\LabDesignPatterns.dll
+D:\SoftUni\OOP-CSharp\LabDesignPatterns\LabDesignPatterns\bin\Debug\netcoreapp3.1\LabDesignPatterns.pdb
+D:\SoftUni\OOP-CSharp\LabDesignPatterns\LabDesignPatterns\obj\Debug\netcoreapp3.1\LabDesignPatterns.csproj.AssemblyReference.cache
+D:\SoftUni\OOP-CSharp\LabDesignPatterns\LabDesignPatterns\obj\Debug\netcoreapp3.1\LabDesignPatterns.AssemblyInfoInputs.cache
+D:\SoftUni\OOP-CSharp\LabDesignPatterns\LabDesignPatterns\obj\Debug\netcoreapp3.1\LabDesignPatterns.AssemblyInfo.cs
+D:\SoftUni\OOP-CSharp\LabDesignPatterns\LabDesignPatterns\obj\Debug\netcoreapp3.1\LabDesignPatterns.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP-CSharp\LabDesignPatterns\LabDesignPatterns\obj\Debug\netcoreapp3.1\LabDesignPatterns.dll
+D:\SoftUni\OOP-CSharp\LabDesignPatterns\LabDesignPatterns\obj\Debug\netcoreapp3.1\LabDesignPatterns.pdb
+D:\SoftUni\OOP-CSharp\LabDesignPatterns\LabDesignPatterns\obj\Debug\netcoreapp3.1\LabDesignPatterns.genruntimeconfig.cache

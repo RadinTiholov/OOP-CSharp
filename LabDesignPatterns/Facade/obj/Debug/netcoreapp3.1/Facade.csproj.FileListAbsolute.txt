@@ -1,0 +1,13 @@
+D:\SoftUni\OOP-CSharp\LabDesignPatterns\Facade\bin\Debug\netcoreapp3.1\Facade.exe
+D:\SoftUni\OOP-CSharp\LabDesignPatterns\Facade\bin\Debug\netcoreapp3.1\Facade.deps.json
+D:\SoftUni\OOP-CSharp\LabDesignPatterns\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.json
+D:\SoftUni\OOP-CSharp\LabDesignPatterns\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.dev.json
+D:\SoftUni\OOP-CSharp\LabDesignPatterns\Facade\bin\Debug\netcoreapp3.1\Facade.dll
+D:\SoftUni\OOP-CSharp\LabDesignPatterns\Facade\bin\Debug\netcoreapp3.1\Facade.pdb
+D:\SoftUni\OOP-CSharp\LabDesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.csproj.AssemblyReference.cache
+D:\SoftUni\OOP-CSharp\LabDesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfoInputs.cache
+D:\SoftUni\OOP-CSharp\LabDesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfo.cs
+D:\SoftUni\OOP-CSharp\LabDesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP-CSharp\LabDesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.dll
+D:\SoftUni\OOP-CSharp\LabDesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.pdb
+D:\SoftUni\OOP-CSharp\LabDesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.genruntimeconfig.cache
