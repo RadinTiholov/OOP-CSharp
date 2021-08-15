@@ -1,0 +1,13 @@
+D:\SoftUni\OOP-CSharp\Exam\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.AssemblyReference.cache
+D:\SoftUni\OOP-CSharp\Exam\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfoInputs.cache
+D:\SoftUni\OOP-CSharp\Exam\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfo.cs
+D:\SoftUni\OOP-CSharp\Exam\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP-CSharp\Exam\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.exe
+D:\SoftUni\OOP-CSharp\Exam\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.deps.json
+D:\SoftUni\OOP-CSharp\Exam\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.json
+D:\SoftUni\OOP-CSharp\Exam\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.dev.json
+D:\SoftUni\OOP-CSharp\Exam\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.dll
+D:\SoftUni\OOP-CSharp\Exam\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.pdb
+D:\SoftUni\OOP-CSharp\Exam\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.dll
+D:\SoftUni\OOP-CSharp\Exam\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.pdb
+D:\SoftUni\OOP-CSharp\Exam\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.genruntimeconfig.cache

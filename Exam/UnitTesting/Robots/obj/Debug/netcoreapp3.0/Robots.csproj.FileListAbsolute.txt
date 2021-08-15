@@ -1,0 +1,13 @@
+D:\SoftUni\OOP-CSharp\Exam\UnitTesting\Robots\bin\Debug\netcoreapp3.0\Robots.exe
+D:\SoftUni\OOP-CSharp\Exam\UnitTesting\Robots\bin\Debug\netcoreapp3.0\Robots.deps.json
+D:\SoftUni\OOP-CSharp\Exam\UnitTesting\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.json
+D:\SoftUni\OOP-CSharp\Exam\UnitTesting\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.dev.json
+D:\SoftUni\OOP-CSharp\Exam\UnitTesting\Robots\bin\Debug\netcoreapp3.0\Robots.dll
+D:\SoftUni\OOP-CSharp\Exam\UnitTesting\Robots\bin\Debug\netcoreapp3.0\Robots.pdb
+D:\SoftUni\OOP-CSharp\Exam\UnitTesting\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.AssemblyReference.cache
+D:\SoftUni\OOP-CSharp\Exam\UnitTesting\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfoInputs.cache
+D:\SoftUni\OOP-CSharp\Exam\UnitTesting\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfo.cs
+D:\SoftUni\OOP-CSharp\Exam\UnitTesting\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP-CSharp\Exam\UnitTesting\Robots\obj\Debug\netcoreapp3.0\Robots.dll
+D:\SoftUni\OOP-CSharp\Exam\UnitTesting\Robots\obj\Debug\netcoreapp3.0\Robots.pdb
+D:\SoftUni\OOP-CSharp\Exam\UnitTesting\Robots\obj\Debug\netcoreapp3.0\Robots.genruntimeconfig.cache
