@@ -78,7 +78,10 @@ namespace CarRacing.Models.Racers
             return Car.FuelAvailable >= Car.FuelConsumptionPerRace;
         }
 
-        public virtual void Race() { }
+        public virtual void Race() 
+        {
+            car.Drive();
+        }
         public override string ToString()
         {
             StringBuilder text = new StringBuilder();
