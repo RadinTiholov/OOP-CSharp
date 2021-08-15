@@ -73,13 +73,12 @@ namespace CarRacing.Models.Racers
             }
         }
 
-
         public bool IsAvailable()
         {
             return Car.FuelAvailable >= Car.FuelConsumptionPerRace;
         }
 
-        public abstract void Race();
+        public virtual void Race() { }
         public override string ToString()
         {
             StringBuilder text = new StringBuilder();

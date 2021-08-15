@@ -16,7 +16,7 @@ namespace CarRacing.Repositories
         }
 
         private List<ICar> models;
-        public IReadOnlyCollection<ICar> Models => models.ToList();
+        public IReadOnlyCollection<ICar> Models => models.AsReadOnly();
 
         public void Add(ICar model)
         {

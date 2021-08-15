@@ -23,13 +23,13 @@ namespace CarRacing.Models.Maps
                 return $"{racerOne.Username} wins the race! {racerTwo.Username} was not available to race!";
             }
 
-            racerOne.Race();
-            racerTwo.Race();
             var multiplierOne = racerOne.RacingBehavior == "strict" ? 1.2 : 1.1;
             var multiplierTwo = racerTwo.RacingBehavior == "strict" ? 1.2 : 1.1;
-
             var racerOneChance = racerOne.Car.HorsePower * racerOne.DrivingExperience * multiplierOne;
             var racerTwoChance = racerTwo.Car.HorsePower * racerTwo.DrivingExperience * multiplierTwo;
+            racerOne.Race();
+            racerTwo.Race();
+
             if (racerOneChance > racerTwoChance)
             {
                 return $"{racerOne.Username} has just raced against {racerTwo.Username}! {racerOne.Username} is the winner!";

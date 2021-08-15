@@ -16,7 +16,7 @@ namespace CarRacing.Repositories
         }
 
         private List<IRacer> models;
-        public IReadOnlyCollection<IRacer> Models => models;
+        public IReadOnlyCollection<IRacer> Models => models.AsReadOnly();
 
         public void Add(IRacer model)
         {
