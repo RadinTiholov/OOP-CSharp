@@ -1,0 +1,13 @@
+D:\SoftUni\OOP-CSharp\LabMocking\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.csproj.AssemblyReference.cache
+D:\SoftUni\OOP-CSharp\LabMocking\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.AssemblyInfoInputs.cache
+D:\SoftUni\OOP-CSharp\LabMocking\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.AssemblyInfo.cs
+D:\SoftUni\OOP-CSharp\LabMocking\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP-CSharp\LabMocking\INStock - Skeleton\INStock\bin\Debug\netcoreapp3.1\INStock.exe
+D:\SoftUni\OOP-CSharp\LabMocking\INStock - Skeleton\INStock\bin\Debug\netcoreapp3.1\INStock.deps.json
+D:\SoftUni\OOP-CSharp\LabMocking\INStock - Skeleton\INStock\bin\Debug\netcoreapp3.1\INStock.runtimeconfig.json
+D:\SoftUni\OOP-CSharp\LabMocking\INStock - Skeleton\INStock\bin\Debug\netcoreapp3.1\INStock.runtimeconfig.dev.json
+D:\SoftUni\OOP-CSharp\LabMocking\INStock - Skeleton\INStock\bin\Debug\netcoreapp3.1\INStock.dll
+D:\SoftUni\OOP-CSharp\LabMocking\INStock - Skeleton\INStock\bin\Debug\netcoreapp3.1\INStock.pdb
+D:\SoftUni\OOP-CSharp\LabMocking\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.dll
+D:\SoftUni\OOP-CSharp\LabMocking\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.pdb
+D:\SoftUni\OOP-CSharp\LabMocking\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.1\INStock.genruntimeconfig.cache

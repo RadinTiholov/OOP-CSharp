@@ -1,0 +1,13 @@
+D:\SoftUni\OOP-CSharp\Exam prep5\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.exe
+D:\SoftUni\OOP-CSharp\Exam prep5\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.deps.json
+D:\SoftUni\OOP-CSharp\Exam prep5\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.json
+D:\SoftUni\OOP-CSharp\Exam prep5\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.dev.json
+D:\SoftUni\OOP-CSharp\Exam prep5\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.dll
+D:\SoftUni\OOP-CSharp\Exam prep5\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.pdb
+D:\SoftUni\OOP-CSharp\Exam prep5\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csproj.AssemblyReference.cache
+D:\SoftUni\OOP-CSharp\Exam prep5\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfoInputs.cache
+D:\SoftUni\OOP-CSharp\Exam prep5\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfo.cs
+D:\SoftUni\OOP-CSharp\Exam prep5\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP-CSharp\Exam prep5\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.dll
+D:\SoftUni\OOP-CSharp\Exam prep5\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.pdb
+D:\SoftUni\OOP-CSharp\Exam prep5\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.genruntimeconfig.cache

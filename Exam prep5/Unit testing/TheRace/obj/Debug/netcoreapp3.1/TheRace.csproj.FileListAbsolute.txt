@@ -1,0 +1,9 @@
+D:\SoftUni\OOP-CSharp\Exam prep5\Unit testing\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+D:\SoftUni\OOP-CSharp\Exam prep5\Unit testing\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+D:\SoftUni\OOP-CSharp\Exam prep5\Unit testing\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+D:\SoftUni\OOP-CSharp\Exam prep5\Unit testing\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.AssemblyReference.cache
+D:\SoftUni\OOP-CSharp\Exam prep5\Unit testing\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+D:\SoftUni\OOP-CSharp\Exam prep5\Unit testing\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+D:\SoftUni\OOP-CSharp\Exam prep5\Unit testing\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP-CSharp\Exam prep5\Unit testing\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+D:\SoftUni\OOP-CSharp\Exam prep5\Unit testing\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb

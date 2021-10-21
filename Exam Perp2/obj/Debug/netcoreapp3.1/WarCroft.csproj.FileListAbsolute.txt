@@ -1,0 +1,13 @@
+D:\SoftUni\OOP-CSharp\Exam Perp2\bin\Debug\netcoreapp3.1\WarCroft.exe
+D:\SoftUni\OOP-CSharp\Exam Perp2\bin\Debug\netcoreapp3.1\WarCroft.deps.json
+D:\SoftUni\OOP-CSharp\Exam Perp2\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.json
+D:\SoftUni\OOP-CSharp\Exam Perp2\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.dev.json
+D:\SoftUni\OOP-CSharp\Exam Perp2\bin\Debug\netcoreapp3.1\WarCroft.dll
+D:\SoftUni\OOP-CSharp\Exam Perp2\bin\Debug\netcoreapp3.1\WarCroft.pdb
+D:\SoftUni\OOP-CSharp\Exam Perp2\obj\Debug\netcoreapp3.1\WarCroft.csproj.AssemblyReference.cache
+D:\SoftUni\OOP-CSharp\Exam Perp2\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfoInputs.cache
+D:\SoftUni\OOP-CSharp\Exam Perp2\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfo.cs
+D:\SoftUni\OOP-CSharp\Exam Perp2\obj\Debug\netcoreapp3.1\WarCroft.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP-CSharp\Exam Perp2\obj\Debug\netcoreapp3.1\WarCroft.dll
+D:\SoftUni\OOP-CSharp\Exam Perp2\obj\Debug\netcoreapp3.1\WarCroft.pdb
+D:\SoftUni\OOP-CSharp\Exam Perp2\obj\Debug\netcoreapp3.1\WarCroft.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni\OOP-CSharp\ExamPrep3\UnitTests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.exe
+D:\SoftUni\OOP-CSharp\ExamPrep3\UnitTests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.deps.json
+D:\SoftUni\OOP-CSharp\ExamPrep3\UnitTests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+D:\SoftUni\OOP-CSharp\ExamPrep3\UnitTests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+D:\SoftUni\OOP-CSharp\ExamPrep3\UnitTests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.dll
+D:\SoftUni\OOP-CSharp\ExamPrep3\UnitTests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.pdb
+D:\SoftUni\OOP-CSharp\ExamPrep3\UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.AssemblyReference.cache
+D:\SoftUni\OOP-CSharp\ExamPrep3\UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+D:\SoftUni\OOP-CSharp\ExamPrep3\UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+D:\SoftUni\OOP-CSharp\ExamPrep3\UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP-CSharp\ExamPrep3\UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.dll
+D:\SoftUni\OOP-CSharp\ExamPrep3\UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.pdb
+D:\SoftUni\OOP-CSharp\ExamPrep3\UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.genruntimeconfig.cache
